@@ -54,8 +54,8 @@ A **pre-configured and ready-to-use setup** for **dwm** (Dynamic Window Manager)
 ---
 
 ## 🖼️ Screenshots
-
-*(Add a few screenshots of your setup here to showcase the appearance and functionality.)*
+![Screenshot](./Screenshot_2025-01-10_18-02-21.png)
+*A clean and minimal dwm setup with custom keybindings and status bar.*
 
 ---
 
