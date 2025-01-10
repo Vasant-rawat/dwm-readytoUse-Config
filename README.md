@@ -44,6 +44,51 @@ A **pre-configured and ready-to-use setup** for **dwm** (Dynamic Window Manager)
 
 ---
 
+
+## ⌨️ Keybindings
+
+Below is the list of default keybindings for dwm in this configuration:
+
+### General
+- **`Alt + p`**: Launch `dmenu` (application launcher).
+- **`Alt + Shift + Enter`**: Open the terminal (`kitty`).
+- **`Alt + b`**: Toggle the visibility of the status bar.
+
+### Window Management
+- **`Alt + j`**: Focus on the next window.
+- **`Alt + k`**: Focus on the previous window.
+- **`Alt + h`**: Shrink the master area width.
+- **`Alt + l`**: Increase the master area width.
+- **`Alt + i`**: Increase the number of master windows.
+- **`Alt + d`**: Decrease the number of master windows.
+- **`Alt + Enter`**: Move the focused window to the master area.
+- **`Alt + Space`**: Switch between layouts (tiled, floating, monocle).
+- **`Alt + Shift + Space`**: Toggle floating mode for the focused window.
+- **`Alt + Tab`**: Cycle through visible windows.
+
+### Layouts
+- **`Alt + t`**: Set the layout to tiled (default).
+- **`Alt + f`**: Set the layout to floating.
+- **`Alt + m`**: Set the layout to monocle (maximize all windows).
+
+### Monitor and Workspace
+- **`Alt + comma`**: Focus on the previous monitor.
+- **`Alt + period`**: Focus on the next monitor.
+- **`Alt + Shift + comma`**: Move the focused window to the previous monitor.
+- **`Alt + Shift + period`**: Move the focused window to the next monitor.
+- **`Alt + [1-9]`**: Switch to a specific tag (workspace).
+- **`Alt + Shift + [1-9]`**: Move the focused window to a specific tag.
+
+### Miscellaneous
+- **`Alt + Shift + c`**: Close the focused window.
+- **`Alt + Shift + q`**: Quit dwm.
+
+---
+
+
+
+---
+
 ## 🛠️ Included Tools
 
 - 🖥️ **dwm**: The core window manager with essential patches.
