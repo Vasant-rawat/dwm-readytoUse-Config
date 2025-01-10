@@ -85,10 +85,6 @@ Below is the list of default keybindings for dwm in this configuration:
 
 ---
 
-
-
----
-
 ## 🛠️ Included Tools
 
 - 🖥️ **dwm**: The core window manager with essential patches.
